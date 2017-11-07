@@ -41,7 +41,7 @@
     "immutability-helper": "^2.0.0",
     "normalize.css": "^4.2.0",
     "prop-types": "^15.6.0",
-    "react-css-themr": "PCSTrac/react-css-themr#react_16_build"
+    "react-css-themr": "PCSTrac/react-css-themr#1.7.2_react_16_build"
   },
   "devDependencies": {
     "autoprefixer": "^6.5.4",
